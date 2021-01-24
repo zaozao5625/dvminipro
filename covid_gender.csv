@@ -1,0 +1,586 @@
+Deceased Date,Age,Gender,State,Senior citizen,Chronic disease
+2021-01-15,72,Female,Johor,1,1
+2021-01-15,76,Female,Selangor,1,1
+2021-01-15,66,Male,Selangor,1,1
+2021-01-15,62,Male,Kedah,1,1
+2021-01-15,50,Male,Selangor,0,1
+2021-01-15,79,Male,Selangor,1,1
+2021-01-15,78,Male,Sabah,1,1
+2021-01-15,66,Male,Sabah,1,0
+2021-01-14,53,Male,Johor,0,1
+2021-01-14,61,Male,Johor,1,1
+2021-01-14,91,Female,Sabah,1,1
+2021-01-14,66,Male,Sabah,1,1
+2021-01-14,60,Male,Sabah,1,1
+2021-01-14,60,Male,N Sembilan,1,1
+2021-01-14,88,Female,Sabah,1,1
+2021-01-14,34,Female,Selangor,0,1
+2021-01-14,81,Male,Selangor,1,1
+2021-01-14,61,Male,Selangor,1,1
+2021-01-14,37,Female,Selangor,0,1
+2021-01-14,62,Female,Sabah,1,0
+2021-01-14,64,Male,Sabah,1,1
+2021-01-14,27,Female,Sabah,0,1
+2021-01-14,67,Male,Sabah,1,1
+2021-01-13,19,Female,Sabah,0,1
+2021-01-13,62,Male,Sabah,1,1
+2021-01-13,77,Male,Johor,1,1
+2021-01-13,63,Male,Sabah,1,1
+2021-01-12,69,Male,Perak,1,1
+2021-01-12,52,Female,Selangor,0,0
+2021-01-12,60,Male,Selangor,1,1
+2021-01-12,67,Male,Selangor,1,1
+2021-01-11,47,Female,Selangor,0,1
+2021-01-11,50,Male,Sabah,0,0
+2021-01-11,54,Male,Selangor,0,1
+2021-01-11,56,Female,Selangor,0,1
+2021-01-10,94,Female,Kuala Lumpur,1,1
+2021-01-10,51,Female,Selangor,0,1
+2021-01-10,89,Female,Sabah,1,1
+2021-01-10,78,Male,Selangor,1,1
+2021-01-10,60,Male,Selangor,1,1
+2021-01-10,37,Male,Kuala Lumpur,0,1
+2021-01-10,59,Male,Selangor,0,1
+2021-01-10,60,Male,Kuala Lumpur,1,1
+2021-01-10,78,Male,Selangor,1,1
+2021-01-09,62,Male,Johor,1,1
+2021-01-09,82,Male,Johor,1,1
+2021-01-09,67,Male,Johor,1,1
+2021-01-09,87,Male,Selangor,1,1
+2021-01-09,60,Male,Putrajaya,1,1
+2021-01-08,44,Male,Johor,0,1
+2021-01-08,55,Male,Selangor,0,1
+2021-01-08,63,Female,Selangor,1,1
+2021-01-08,71,Male,Selangor,1,1
+2021-01-08,72,Male,Selangor,1,1
+2021-01-08,79,Male,Selangor,1,1
+2021-01-08,62,Female,Selangor,1,1
+2021-01-08,56,Male,Johor,0,1
+2021-01-08,60,Male,Selangor,1,1
+2021-01-08,70,Male,Selangor,1,1
+2021-01-08,50,Male,Selangor,0,1
+2021-01-08,66,Female,Sabah,1,1
+2021-01-08,46,Male,Sabah,0,1
+2021-01-08,63,Male,Sabah,1,1
+2021-01-08,66,Male,Sabah,1,1
+2021-01-08,59,Male,Johor,0,1
+2021-01-07,38,Male,Selangor,0,1
+2021-01-07,83,Male,N Sembilan,1,1
+2021-01-07,79,Female,Selangor,1,1
+2021-01-07,81,Female,Selangor,1,1
+2021-01-07,60,Female,Sabah,1,1
+2021-01-07,78,Female,P Pinang,0,1
+2021-01-07,56,Male,Selangor,0,0
+2021-01-07,56,Male,Selangor,0,1
+2021-01-06,50,Female,Sabah,0,1
+2021-01-06,73,Male,Selangor,1,1
+2021-01-06,60,Female,Kuala Lumpur,1,1
+2021-01-06,65,Male,Sabah,1,1
+2021-01-05,69,Male,Sabah,1,1
+2021-01-05,62,Female,Selangor,1,0
+2021-01-05,62,Male,Sabah,1,1
+2021-01-05,63,Female,Selangor,1,0
+2021-01-05,78,Male,Sabah,1,1
+2021-01-05,67,Male,Sabah,1,1
+2021-01-05,54,Female,Sabah,0,0
+2021-01-05,74,Male,Perak,1,0
+2021-01-04,60,Female,Johor,1,1
+2021-01-04,68,Female,Selangor,1,1
+2021-01-04,59,Female,Sabah,0,1
+2021-01-04,45,Male,Pahang,0,1
+2021-01-04,83,Female,Sabah,1,1
+2021-01-04,67,Male,Johor,1,1
+2021-01-04,65,Male,Sabah,1,1
+2021-01-03,68,Male,Johor,1,1
+2021-01-03,56,Male,Selangor,0,1
+2021-01-03,69,Female,Selangor,1,1
+2021-01-03,63,Male,Selangor,1,1
+2021-01-03,77,Female,Selangor,1,1
+2021-01-03,58,Male,Sabah,0,1
+2021-01-03,72,Female,Sabah,1,1
+2021-01-03,72,Male,Selangor,1,1
+2021-01-03,62,Male,Selangor,1,1
+2021-01-03,53,Male,Johor,0,1
+2021-01-03,71,Female,Kedah,1,1
+2021-01-02,72,Male,Kelantan,1,1
+2021-01-02,72,Male,N Sembilan,1,1
+2021-01-02,66,Male,Selangor,1,1
+2021-01-02,76,Male,Selangor,1,1
+2021-01-02,65,Female,Sabah,1,1
+2021-01-02,82,Male,Perak,1,1
+2021-01-02,41,Female,Kuala Lumpur,0,1
+2021-01-02,67,Female,Kuala Lumpur,1,1
+2021-01-02,73,Male,N Sembilan,1,1
+2021-01-01,58,Female,Selangor,0,1
+2021-01-01,94,Male,Selangor,1,1
+2021-01-01,69,Male,N Sembilan,1,1
+2020-12-31,61,Male,Selangor,1,1
+2020-12-31,71,Male,Kedah,1,1
+2020-12-31,39,Male,N Sembilan,0,1
+2020-12-31,58,Female,Kelantan,0,1
+2020-12-31,78,Female,Selangor,1,1
+2020-12-31,69,Male,Johor,1,1
+2020-12-31,62,Female,Selangor,1,1
+2020-12-31,79,Male,Johor,1,1
+2020-12-30,69,Male,Selangor,1,1
+2020-12-30,55,Male,Sabah,0,1
+2020-12-30,45,Male,Sabah,0,0
+2020-12-30,63,Female,Sabah,1,1
+2020-12-30,55,Male,Johor,0,1
+2020-12-30,58,Male,Sabah,0,1
+2020-12-29,68,Female,Kelantan,1,1
+2020-12-29,65,Male,Putrajaya,1,1
+2020-12-28,62,Male,Sabah,1,1
+2020-12-28,90,Male,Selangor,1,1
+2020-12-28,62,Female,Selangor,1,1
+2020-12-27,71,Male,Sabah,1,0
+2020-12-26,70,Male,Melaka,1,1
+2020-12-26,44,Female,Sabah,0,1
+2020-12-25,64,Female,Selangor,1,1
+2020-12-25,65,Male,Sabah,1,1
+2020-12-25,76,Male,Sabah,1,1
+2020-12-24,61,Male,Sabah,1,1
+2020-12-24,15,Female,Sabah,0,0
+2020-12-23,68,Male,N Sembilan,1,1
+2020-12-23,71,Male,Kuala Lumpur,1,1
+2020-12-23,49,Male,Sabah,0,1
+2020-12-23,57,Female,Selangor,0,1
+2020-12-23,40,Female,Selangor,0,1
+2020-12-22,69,Male,Labuan,1,1
+2020-12-21,50,Male,Sabah,0,0
+2020-12-20,77,Male,Sabah,1,0
+2020-12-20,78,Male,Sabah,1,1
+2020-12-20,67,Male,P Pinang,1,1
+2020-12-20,63,Male,Selangor,1,1
+2020-12-19,76,Female,P Pinang,1,1
+2020-12-17,81,Male,Sabah,1,1
+2020-12-17,55,Male,Sabah,0,1
+2020-12-17,36,Male,Johor,0,1
+2020-12-16,57,Male,Sabah,0,0
+2020-12-16,77,Male,Sabah,1,1
+2020-12-16,52,Female,Kelantan,0,1
+2020-12-16,76,Male,Sabah,1,1
+2020-12-16,52,Female,Sabah,0,1
+2020-12-16,66,Male,Selangor,1,1
+2020-12-16,58,Male,Sabah,0,0
+2020-12-15,75,Male,Sabah,1,1
+2020-12-15,88,Male,Sabah,1,1
+2020-12-15,45,Female,Sabah,0,1
+2020-12-14,46,Female,Sabah,0,1
+2020-12-14,50,Female,Perak,0,1
+2020-12-14,40,Female,Labuan,0,1
+2020-12-14,54,Male,Sabah,0,0
+2020-12-13,44,Female,Selangor,0,1
+2020-12-13,60,Male,N Sembilan,1,1
+2020-12-13,83,Female,Kelantan,1,1
+2020-12-13,29,Male,Selangor,0,0
+2020-12-12,38,Male,Sabah,0,1
+2020-12-12,65,Male,Sabah,1,1
+2020-12-12,74,Male,Sabah,1,1
+2020-12-12,33,Male,Selangor,0,0
+2020-12-12,49,Female,Johor,0,1
+2020-12-12,71,Male,Johor,1,1
+2020-12-12,84,Male,P Pinang,1,1
+2020-12-12,58,Male,Sabah,0,1
+2020-12-12,41,Male,Johor,0,1
+2020-12-11,63,Female,Sabah,1,1
+2020-12-11,78,Female,P Pinang,1,1
+2020-12-11,60,Female,Sabah,1,1
+2020-12-11,81,Male,Sabah,1,1
+2020-12-11,65,Male,Sabah,1,1
+2020-12-11,62,Male,Sabah,1,1
+2020-12-10,63,Female,Sabah,1,1
+2020-12-10,26,Male,Labuan,0,1
+2020-12-10,72,Male,Sabah,1,1
+2020-12-09,82,Male,Sabah,1,0
+2020-12-09,60,Male,Sabah,1,1
+2020-12-09,68,Male,Sabah,1,1
+2020-12-09,61,Male,Sabah,1,1
+2020-12-09,75,Male,Selangor,1,1
+2020-12-08,33,Female,Sabah,0,1
+2020-12-08,92,Female,Sabah,1,1
+2020-12-08,90,Female,Sabah,1,0
+2020-12-08,64,Female,Sabah,1,1
+2020-12-06,59,Male,Sabah,0,1
+2020-12-06,72,Female,Johor,1,1
+2020-12-06,65,Male,Perak,1,1
+2020-12-06,76,Female,Sabah,1,1
+2020-12-05,64,Male,Sabah,1,1
+2020-12-05,61,Male,Johor,1,1
+2020-12-05,46,Male,Selangor,0,1
+2020-12-05,75,Male,Sabah,1,1
+2020-12-03,79,Male,Sabah,1,1
+2020-12-03,50,Female,Johor,0,1
+2020-12-03,81,Male,Selangor,1,1
+2020-12-03,77,Female,Selangor,1,1
+2020-12-03,72,Female,Kelantan,1,1
+2020-12-03,71,Female,Johor,1,1
+2020-12-03,64,Male,Sabah,1,1
+2020-12-03,79,Male,Selangor,1,1
+2020-12-03,74,Female,Selangor,1,0
+2020-12-03,70,Female,N Sembilan,1,1
+2020-12-03,72,Female,Selangor,1,1
+2020-12-02,63,Male,Sabah,1,1
+2020-12-02,84,Male,Sabah,1,1
+2020-12-01,51,Male,Sabah,0,1
+2020-12-01,24,Male,Sabah,0,1
+2020-12-01,64,Female,Sabah,1,1
+2020-11-30,22,Male,Sabah,0,1
+2020-11-30,58,Male,Labuan,0,1
+2020-11-30,66,Male,Kedah,1,1
+2020-11-29,53,Female,Sabah,0,1
+2020-11-29,89,Male,N Sembilan,1,1
+2020-11-29,64,Male,Perak,1,1
+2020-11-28,60,Female,Sabah,1,0
+2020-11-28,4,Female,Sabah,0,0
+2020-11-28,84,Male,Sabah,1,0
+2020-11-28,130,Male,Sabah,1,0
+2020-11-27,64,Male,Labuan,1,1
+2020-11-27,47,Male,Sabah,0,1
+2020-11-26,77,Female,Sabah,1,1
+2020-11-26,59,Male,Sabah,0,1
+2020-11-26,70,Female,Sabah,1,1
+2020-11-25,77,Female,Labuan,1,1
+2020-11-25,54,Female,Sabah,0,1
+2020-11-25,68,Female,Sabah,1,1
+2020-11-25,73,Female,P Pinang,1,0
+2020-11-24,41,Female,Sabah,0,0
+2020-11-24,74,Male,Sabah,1,0
+2020-11-24,45,Male,Sabah,0,0
+2020-11-24,84,Male,P Pinang,1,1
+2020-11-23,58,Female,Sabah,0,1
+2020-11-23,80,Male,Sabah,1,0
+2020-11-22,80,Female,Sabah,1,1
+2020-11-22,90,Male,Sabah,1,1
+2020-11-22,68,Male,Sabah,1,1
+2020-11-21,78,Male,Sabah,1,1
+2020-11-21,55,Female,Sabah,0,1
+2020-11-21,62,Male,Sabah,1,1
+2020-11-20,64,Male,Sabah,1,1
+2020-11-20,39,Male,Sabah,0,1
+2020-11-20,32,Female,Sabah,0,0
+2020-11-19,47,Female,Sabah,0,1
+2020-11-19,58,Male,Perak,0,1
+2020-11-19,29,Female,Sabah,0,1
+2020-11-19,62,Female,Johor,1,1
+2020-11-18,59,Male,Sabah,0,0
+2020-11-18,62,Female,Sabah,1,1
+2020-11-18,76,Female,Perak,1,1
+2020-11-18,80,Female,Perak,1,1
+2020-11-17,65,Female,Sabah,1,0
+2020-11-17,25,Male,Sabah,0,1
+2020-11-17,80,Male,Sabah,1,1
+2020-11-17,59,Female,Perak,0,1
+2020-11-17,65,Male,Sabah,1,1
+2020-11-16,46,Male,Sabah,0,0
+2020-11-16,73,Female,Sabah,1,1
+2020-11-16,51,Female,Sabah,0,1
+2020-11-16,54,Male,Sabah,0,1
+2020-11-15,63,Female,Sabah,1,1
+2020-11-15,8,Female,Sabah,0,0
+2020-11-15,77,Male,Sabah,1,1
+2020-11-14,78,Female,Sabah,1,1
+2020-11-14,51,Male,Sabah,0,1
+2020-11-13,70,Male,Sabah,1,1
+2020-11-12,67,Female,Sabah,1,1
+2020-11-12,22,Female,Sabah,0,1
+2020-11-10,84,Male,Sabah,1,1
+2020-11-10,65,Male,Sabah,1,1
+2020-11-10,52,Male,Sabah,0,1
+2020-11-10,62,Female,Sabah,1,1
+2020-11-10,47,Male,Sabah,0,0
+2020-11-10,77,Male,Sabah,1,1
+2020-11-09,66,Male,Sabah,1,1
+2020-11-09,55,Female,Sabah,0,0
+2020-11-09,65,Female,Sabah,1,1
+2020-11-09,72,Male,Sabah,1,1
+2020-11-09,51,Male,Sabah,0,1
+2020-11-09,53,Male,Sabah,0,1
+2020-11-09,71,Female,Sabah,1,1
+2020-11-09,1,Male,Sabah,0,1
+2020-11-09,66,Male,Labuan,1,1
+2020-11-08,66,Male,Sabah,1,1
+2020-11-08,62,Female,P Pinang,1,1
+2020-11-08,81,Female,Sabah,1,1
+2020-11-08,62,Male,Perak,1,0
+2020-11-07,55,Male,Sabah,0,1
+2020-11-07,62,Female,Sabah,1,1
+2020-11-07,51,Female,Sabah,0,1
+2020-11-06,67,Female,Sabah,1,1
+2020-11-06,54,Male,Kedah,0,1
+2020-11-05,61,Male,Selangor,1,1
+2020-11-05,80,Male,Sabah,1,1
+2020-11-05,77,Male,Sabah,1,1
+2020-11-05,92,Female,Sabah,1,0
+2020-11-05,62,Male,Sabah,1,1
+2020-11-05,54,Male,Sabah,0,1
+2020-11-04,70,Male,Sabah,1,1
+2020-11-04,63,Male,Sabah,1,1
+2020-11-04,64,Male,Sabah,1,1
+2020-11-04,56,Male,Sabah,0,1
+2020-11-04,60,Female,Sabah,1,1
+2020-11-04,63,Male,Sabah,1,1
+2020-11-04,83,Male,Sabah,1,1
+2020-11-04,79,Male,Perak,1,1
+2020-11-03,70,Female,Sabah,1,0
+2020-11-03,80,Female,Sabah,1,0
+2020-11-03,80,Male,Sabah,1,1
+2020-11-03,82,Male,Sabah,1,0
+2020-11-03,25,Male,Sabah,0,0
+2020-11-03,61,Female,Sabah,1,1
+2020-11-03,14,Male,Sabah,0,1
+2020-11-03,44,Female,Sabah,0,1
+2020-11-03,58,Female,Sabah,0,1
+2020-11-03,64,Male,Sabah,1,1
+2020-11-03,56,Male,Sabah,0,1
+2020-11-03,47,Female,Sabah,0,1
+2020-11-02,88,Male,Sabah,1,1
+2020-11-02,75,Female,Sabah,1,1
+2020-10-30,60,Female,Sabah,1,1
+2020-10-30,53,Male,Sabah,0,0
+2020-10-30,70,Male,Sabah,1,1
+2020-10-28,56,Male,Sabah,0,1
+2020-10-28,70,Male,Sabah,1,1
+2020-10-28,73,Female,Sabah,1,0
+2020-10-28,67,Male,Sabah,1,1
+2020-10-28,61,Female,Selangor,1,1
+2020-10-28,35,Female,Sabah,0,1
+2020-10-28,73,Female,Sabah,1,1
+2020-10-28,66,Male,Sabah,1,1
+2020-10-27,53,Female,Sabah,0,1
+2020-10-27,82,Male,Sabah,1,1
+2020-10-26,27,Male,Sabah,0,0
+2020-10-26,90,Female,Sabah,1,0
+2020-10-26,61,Male,Sabah,1,1
+2020-10-26,50,Male,Sabah,0,1
+2020-10-26,51,Female,Sabah,0,1
+2020-10-26,71,Male,Sabah,1,1
+2020-10-26,67,Male,Sabah,1,1
+2020-10-25,80,Female,Sabah,1,1
+2020-10-25,68,Male,Sabah,1,1
+2020-10-25,74,Female,Sabah,1,1
+2020-10-25,34,Male,Sabah,0,1
+2020-10-25,58,Male,Sabah,0,1
+2020-10-25,59,Male,Sabah,0,1
+2020-10-25,70,Female,Sabah,1,1
+2020-10-25,77,Male,Sabah,1,1
+2020-10-24,63,Male,P Pinang,1,1
+2020-10-24,47,Male,Sabah,0,1
+2020-10-24,75,Male,Sabah,1,1
+2020-10-24,72,Male,Sabah,1,1
+2020-10-24,60,Male,Sabah,1,1
+2020-10-24,62,Male,Sabah,1,1
+2020-10-24,88,Male,Sabah,1,1
+2020-10-23,58,Female,Labuan,0,1
+2020-10-23,33,Male,Sabah,0,1
+2020-10-23,21,Male,Sabah,0,1
+2020-10-23,63,Male,Sabah,1,1
+2020-10-23,62,Female,Sabah,1,1
+2020-10-23,67,Male,Kedah,1,0
+2020-10-23,66,Male,Sabah,1,1
+2020-10-23,54,Male,Sabah,0,1
+2020-10-23,69,Female,Sabah,1,1
+2020-10-22,77,Male,Sabah,1,1
+2020-10-22,60,Female,Sabah,1,0
+2020-10-22,78,Male,Sabah,1,1
+2020-10-22,88,Male,Sabah,1,0
+2020-10-22,67,Female,Kedah,1,1
+2020-10-22,65,Female,Sabah,1,0
+2020-10-21,46,Male,Labuan,0,1
+2020-10-21,27,Male,Sabah,0,0
+2020-10-21,55,Male,Sabah,0,1
+2020-10-21,65,Male,Sabah,1,1
+2020-10-21,75,Male,Sabah,1,1
+2020-10-21,71,Female,Sabah,1,1
+2020-10-20,90,Female,Sabah,1,1
+2020-10-20,59,Female,Sabah,0,1
+2020-10-20,78,Male,Sabah,1,1
+2020-10-19,70,Male,Sabah,1,1
+2020-10-19,52,Female,Sabah,0,1
+2020-10-19,85,Male,Sabah,1,1
+2020-10-18,46,Female,Selangor,0,1
+2020-10-18,41,Male,Sabah,0,0
+2020-10-18,55,Female,Sabah,0,1
+2020-10-18,44,Male,Sabah,0,1
+2020-10-18,57,Male,Sabah,0,1
+2020-10-18,61,Male,Sabah,1,0
+2020-10-18,70,Female,Sabah,1,1
+2020-10-17,53,Male,Sabah,0,0
+2020-10-17,71,Female,Sabah,1,0
+2020-10-17,88,Male,Sabah,1,1
+2020-10-17,78,Male,Sabah,1,1
+2020-10-16,52,Male,Kuala Lumpur,0,1
+2020-10-16,39,Male,Sabah,0,1
+2020-10-16,67,Male,Sabah,1,1
+2020-10-16,74,Female,Sabah,1,1
+2020-10-16,72,Male,Sabah,1,1
+2020-10-16,66,Male,Sabah,1,1
+2020-10-15,68,Male,Sabah,1,1
+2020-10-15,100,Female,Sabah,1,1
+2020-10-15,54,Female,Sabah,0,1
+2020-10-14,47,Female,Sabah,0,1
+2020-10-14,73,Female,Sabah,1,1
+2020-10-14,63,Female,Sabah,1,1
+2020-10-14,80,Male,Sabah,1,1
+2020-10-13,59,Male,Sabah,0,1
+2020-10-13,36,Female,Sabah,0,1
+2020-10-13,83,Male,Sabah,1,1
+2020-10-13,84,Female,Sabah,1,1
+2020-10-12,48,Female,Sabah,0,1
+2020-10-12,85,Female,Sabah,1,1
+2020-10-11,67,Male,Sabah,1,1
+2020-10-11,63,Male,Sabah,1,1
+2020-10-10,51,Male,Sabah,0,1
+2020-10-10,54,Female,Sabah,0,1
+2020-10-10,61,Male,Sabah,1,1
+2020-10-09,64,Male,Sabah,1,1
+2020-10-09,57,Female,Sabah,0,1
+2020-10-09,58,Female,Sabah,0,0
+2020-10-09,66,Female,Sabah,1,1
+2020-10-09,68,Male,Sabah,1,0
+2020-10-09,54,Male,Sabah,0,1
+2020-10-08,53,Male,Sabah,0,1
+2020-10-08,82,Male,Sabah,1,0
+2020-10-08,57,Male,Sabah,0,1
+2020-10-08,75,Female,Sabah,1,1
+2020-10-08,55,Male,Sabah,0,1
+2020-10-05,1,Female,Sabah,0,0
+2020-10-05,85,Male,P Pinang,1,0
+2020-10-04,60,Male,Sabah,1,1
+2020-10-04,60,Male,Sabah,1,0
+2020-10-03,57,Male,Sabah,0,1
+2020-09-28,46,Male,Kedah,0,0
+2020-09-27,81,Female,Sabah,1,0
+2020-09-26,70,Male,Sabah,1,0
+2020-09-23,72,Male,Kedah,1,0
+2020-09-19,48,Female,Sabah,0,1
+2020-09-19,54,Male,Sabah,0,0
+2020-09-18,82,Male,Kedah,0,0
+2020-09-14,50,Female,Sabah,0,0
+2020-09-01,80,Female,P Pinang,0,0
+2020-07-30,62,Male,Kedah,0,0
+2020-07-29,75,Male,Kedah,1,1
+2020-07-29,64,Male,Sabah,1,1
+2020-07-26,63,Female,Sarawak,1,1
+2020-07-17,72,Male,Johor,1,1
+2020-07-10,72,Male,Sarawak,1,1
+2020-06-12,96,Female,Sabah,0,0
+2020-06-12,67,Male,Kuala Lumpur,1,1
+2020-06-11,85,Female,Sabah,1,0
+2020-06-10,61,Male,Selangor,1,1
+2020-06-05,79,Female,Selangor,1,0
+2020-06-04,61,Male,Johor,1,1
+2020-05-21,65,Male,Selangor,1,1
+2020-05-18,77,Female,Pahang,1,1
+2020-05-13,90,Male,Johor,1,1
+2020-05-12,39,Male,Pahang,0,1
+2020-05-12,30,Male,Pahang,0,0
+2020-05-10,63,Male,Selangor,1,1
+2020-05-08,74,Female,Melaka,1,1
+2020-05-07,53,Female,Sabah,0,1
+2020-05-05,51,Male,Selangor,0,1
+2020-05-05,47,Male,Selangor,0,0
+2020-05-02,64,Male,N Sembilan,1,1
+2020-05-02,82,Male,Selangor,1,1
+2020-04-30,66,Male,Kuala Lumpur,1,1
+2020-04-30,72,Male,Sarawak,1,1
+2020-04-29,64,Male,Pahang,1,1
+2020-04-28,67,Male,Selangor,1,1
+2020-04-27,78,Male,Johor,1,1
+2020-04-25,62,Male,Selangor,1,1
+2020-04-24,62,Female,Kuala Lumpur,1,1
+2020-04-24,61,Male,Selangor,1,1
+2020-04-23,32,Female,Johor,0,1
+2020-04-22,67,Male,Pahang,1,1
+2020-04-22,71,Female,Sarawak,1,0
+2020-04-21,69,Male,Sarawak,1,1
+2020-04-21,92,Male,Kuala Lumpur,1,1
+2020-04-20,72,Female,Selangor,1,1
+2020-04-18,51,Male,Johor,0,1
+2020-04-17,36,Male,Selangor,0,0
+2020-04-16,85,Male,Selangor,1,1
+2020-04-16,85,Male,Pahang,1,1
+2020-04-16,66,Male,Kuala Lumpur,1,1
+2020-04-15,69,Male,Selangor,1,1
+2020-04-14,81,Male,Johor,1,1
+2020-04-14,65,Male,Selangor,1,1
+2020-04-13,74,Female,Melaka,1,1
+2020-04-13,62,Male,Melaka,1,1
+2020-04-12,63,Male,Kuala Lumpur,1,1
+2020-04-12,60,Male,Kuala Lumpur,1,1
+2020-04-12,47,Female,Sarawak,0,1
+2020-04-12,90,Male,Perak,1,1
+2020-04-12,54,Male,N Sembilan,0,1
+2020-04-11,66,Male,N Sembilan,1,1
+2020-04-11,63,Male,Perak,1,1
+2020-04-11,71,Male,Selangor,1,1
+2020-04-10,62,Male,Sabah,1,0
+2020-04-10,88,Female,Selangor,1,0
+2020-04-10,77,Male,Kuala Lumpur,1,0
+2020-04-09,23,Female,Sarawak,0,1
+2020-04-09,59,Male,Melaka,0,1
+2020-04-08,69,Male,Kuala Lumpur,1,0
+2020-04-07,58,Female,N Sembilan,0,1
+2020-04-06,71,Male,Perlis,1,0
+2020-04-05,67,Male,Terengganu,1,1
+2020-04-05,33,Male,Sarawak,0,0
+2020-04-04,66,Male,Sabah,1,1
+2020-04-04,68,Male,Kuala Lumpur,1,1
+2020-04-04,72,Male,Sarawak,1,1
+2020-04-03,61,Male,Pahang,1,1
+2020-04-03,56,Male,Sarawak,0,1
+2020-04-03,66,Female,Kelantan,1,1
+2020-04-03,73,Female,Perak,1,1
+2020-04-02,52,Male,N Sembilan,0,0
+2020-04-02,69,Male,N Sembilan,1,0
+2020-04-02,84,Female,Selangor,1,1
+2020-04-02,85,Male,Johor,1,1
+2020-04-01,61,Male,Sarawak,1,0
+2020-03-31,37,Male,Johor,0,1
+2020-03-31,62,Male,Kuala Lumpur,1,1
+2020-03-31,81,Male,Selangor,1,1
+2020-03-31,80,Male,Kuala Lumpur,1,1
+2020-03-31,40,Female,Sarawak,0,0
+2020-03-30,73,Male,Selangor,1,1
+2020-03-30,48,Female,N Sembilan,0,1
+2020-03-30,46,Female,Sarawak,0,1
+2020-03-30,47,Male,Sarawak,0,0
+2020-03-29,78,Male,Johor,1,1
+2020-03-29,57,Female,Putrajaya,0,0
+2020-03-29,77,Male,Kuala Lumpur,1,1
+2020-03-28,76,Male,Selangor,1,1
+2020-03-28,37,Male,Johor,0,0
+2020-03-28,64,Female,N Sembilan,1,1
+2020-03-28,27,Male,Perak,0,1
+2020-03-28,50,Male,Johor,0,1
+2020-03-28,61,Male,Johor,1,1
+2020-03-28,91,Female,Selangor,1,1
+2020-03-28,85,Female,Kuala Lumpur,1,1
+2020-03-27,53,Male,Selangor,0,0
+2020-03-27,69,Male,Kuala Lumpur,1,1
+2020-03-26,35,Male,Kuala Lumpur,0,0
+2020-03-26,83,Male,Perak,1,1
+2020-03-26,69,Male,Johor,1,1
+2020-03-26,63,Male,Kedah,1,1
+2020-03-25,76,Male,Kelantan,1,0
+2020-03-25,66,Male,Johor,1,1
+2020-03-25,68,Female,Johor,1,0
+2020-03-25,62,Male,Perak,1,1
+2020-03-24,75,Male,Kuala Lumpur,1,0
+2020-03-24,71,Male,Johor,1,1
+2020-03-23,48,Male,Johor,0,0
+2020-03-23,56,Male,Johor,0,1
+2020-03-23,70,Male,Johor,1,0
+2020-03-23,49,Male,Sarawak,0,0
+2020-03-23,51,Female,Sarawak,0,0
+2020-03-22,70,Male,Selangor,1,1
+2020-03-22,74,Male,P Pinang,1,0
+2020-03-22,48,Male,Perlis,0,0
+2020-03-21,69,Male,Kelantan,1,0
+2020-03-21,57,Male,Kuala Lumpur,0,0
+2020-03-21,40,Female,Sarawak,0,0
+2020-03-21,50,Male,Melaka,0,0
+2020-03-20,58,Male,Sabah,0,0
+2020-03-18,79,Female,Sarawak,1,0
+2020-03-17,34,Male,Johor,0,0
+2020-03-17,60,Male,Sarawak,1,0
